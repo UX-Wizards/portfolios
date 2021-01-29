@@ -13,7 +13,7 @@ const WIZARDS = [
   },
   {
     name: "Keri",
-    imageLink: "https://www.zintro.com/profilePicture/Keri-Fullwood.jpeg",
+    imageLink: "https://assets.about.me/background/users/k/e/r/keri.fullwood_1374829638_56.jpg",
     designerType: "product",
     website: "http://www.kerifullwood.com"
   },
